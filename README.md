@@ -1,2 +1,1 @@
-![screenshot](
-"gitexcelenfah.png")
+![screenshot](gitexcelenfah.png)
